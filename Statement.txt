@@ -1,0 +1,171 @@
+¬¬¬¬¬¬¬New Transaction¬¬¬¬¬¬¬¬¬¬
+10.0
+¬¬¬¬¬¬¬Sender and Receiver¬¬¬¬¬¬ 
+From
+IShah
+987654
+To
+vanshikaMittal
+987
+¬¬¬¬¬¬¬¬¬¬¬Old Balances¬¬¬¬¬¬¬¬ 
+100.0
+456.0
+¬¬¬¬¬¬¬¬¬¬New Balances¬¬¬¬¬¬¬¬¬
+90.0
+466.0
+¬¬¬¬¬¬¬¬¬¬DATE & TIME¬¬¬¬¬¬¬¬¬¬
+2022-11-15
+17:14:17.758119
+
+¬¬¬¬¬¬¬New Transaction¬¬¬¬¬¬¬¬¬¬|
+10.0
+¬¬¬¬¬¬¬Sender and Receiver¬¬¬¬¬¬|
+From
+IShah
+987654
+To
+vanshikaMittal
+987
+¬¬¬¬¬¬¬¬¬¬¬Old Balances¬¬¬¬¬¬¬¬|
+100.0
+456.0
+¬¬¬¬¬¬¬¬¬¬New Balances¬¬¬¬¬¬¬¬¬|
+90.0
+466.0
+¬¬¬¬¬¬¬¬¬¬DATE & TIME¬¬¬¬¬¬¬¬¬¬|
+2022-11-15
+18:06:36.211663400
+
+¬¬¬¬¬¬¬New Transaction¬¬¬¬¬¬¬¬¬¬|
+10.0
+¬¬¬¬¬¬¬Sender and Receiver¬¬¬¬¬¬|
+From
+IShah
+987654
+To
+vanshikaMittal
+987
+¬¬¬¬¬¬¬¬¬¬¬Old Balances¬¬¬¬¬¬¬¬|
+100.0
+456.0
+¬¬¬¬¬¬¬¬¬¬New Balances¬¬¬¬¬¬¬¬¬|
+90.0
+466.0
+¬¬¬¬¬¬¬¬¬¬DATE & TIME¬¬¬¬¬¬¬¬¬¬|
+2022-11-15
+20:00:40.882359300
+
+¬¬¬¬¬¬¬New Transaction¬¬¬¬¬¬¬¬¬¬|
+10.0
+¬¬¬¬¬¬¬Sender and Receiver¬¬¬¬¬¬|
+From
+IShah
+987654
+To
+vanshikaMittal
+34567890
+¬¬¬¬¬¬¬¬¬¬¬Old Balances¬¬¬¬¬¬¬¬|
+100.0
+9808.0
+¬¬¬¬¬¬¬¬¬¬New Balances¬¬¬¬¬¬¬¬¬|
+90.0
+9818.0
+¬¬¬¬¬¬¬¬¬¬DATE & TIME¬¬¬¬¬¬¬¬¬¬|
+2022-11-15
+20:04:28.794743600
+
+¬¬¬¬¬¬¬New Transaction¬¬¬¬¬¬¬¬¬¬|
+20.0
+¬¬¬¬¬¬¬Sender and Receiver¬¬¬¬¬¬|
+From
+IShah
+909
+To
+vanshikaMittal
+34567890
+¬¬¬¬¬¬¬¬¬¬¬Old Balances¬¬¬¬¬¬¬¬|
+100.0
+9808.0
+¬¬¬¬¬¬¬¬¬¬New Balances¬¬¬¬¬¬¬¬¬|
+80.0
+9828.0
+¬¬¬¬¬¬¬¬¬¬DATE & TIME¬¬¬¬¬¬¬¬¬¬|
+2022-11-15
+20:11:35.139284
+
+¬¬¬¬¬¬¬New Transaction¬¬¬¬¬¬¬¬¬¬|
+20.0
+¬¬¬¬¬¬¬Sender and Receiver¬¬¬¬¬¬|
+From
+IShah
+9091
+To
+vanshikaMittal
+987
+¬¬¬¬¬¬¬¬¬¬¬Old Balances¬¬¬¬¬¬¬¬|
+100.0
+456.0
+¬¬¬¬¬¬¬¬¬¬New Balances¬¬¬¬¬¬¬¬¬|
+80.0
+476.0
+¬¬¬¬¬¬¬¬¬¬DATE & TIME¬¬¬¬¬¬¬¬¬¬|
+2022-11-15
+20:16:35.176858400
+
+¬¬¬¬¬¬¬New Transaction¬¬¬¬¬¬¬¬¬¬|
+10.0
+¬¬¬¬¬¬¬Sender and Receiver¬¬¬¬¬¬|
+From
+IShah
+987654
+To
+vanshikaMittal
+987
+¬¬¬¬¬¬¬¬¬¬¬Old Balances¬¬¬¬¬¬¬¬|
+100.0
+456.0
+¬¬¬¬¬¬¬¬¬¬New Balances¬¬¬¬¬¬¬¬¬|
+90.0
+466.0
+¬¬¬¬¬¬¬¬¬¬DATE & TIME¬¬¬¬¬¬¬¬¬¬|
+2022-11-16
+00:20:21.578689
+
+¬¬¬¬¬¬¬New Transaction¬¬¬¬¬¬¬¬¬¬|
+200.0
+¬¬¬¬¬¬¬Sender and Receiver¬¬¬¬¬¬|
+From
+FaizalKhan
+987654321
+To
+vanshikaMittal
+987
+¬¬¬¬¬¬¬¬¬¬¬Old Balances¬¬¬¬¬¬¬¬|
+1234.0
+466.0
+¬¬¬¬¬¬¬¬¬¬New Balances¬¬¬¬¬¬¬¬¬|
+1034.0
+666.0
+¬¬¬¬¬¬¬¬¬¬DATE & TIME¬¬¬¬¬¬¬¬¬¬|
+2022-11-16
+16:52:39.407377500
+
+¬¬¬¬¬¬¬New Transaction¬¬¬¬¬¬¬¬¬¬|
+1000.0
+¬¬¬¬¬¬¬Sender and Receiver¬¬¬¬¬¬|
+From
+vanshikaMittal
+34567890
+To
+IShah
+987654
+¬¬¬¬¬¬¬¬¬¬¬Old Balances¬¬¬¬¬¬¬¬|
+9808.0
+90.0
+¬¬¬¬¬¬¬¬¬¬New Balances¬¬¬¬¬¬¬¬¬|
+8808.0
+1090.0
+¬¬¬¬¬¬¬¬¬¬DATE & TIME¬¬¬¬¬¬¬¬¬¬|
+2022-11-16
+17:11:48.227355200
+
